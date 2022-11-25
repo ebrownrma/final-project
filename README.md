@@ -22,7 +22,8 @@ The Sundaland basin has grown and shrunk with the glaciations of the past severa
 
 We plan to run simulations like were demonstrated in class that allow for speciation and extinction over deep time. We can divide a number of different scenarios between us (different rates of migration, extinction, etc.) that might explain the evolutionary trajectory of Scandentia.
 
-## What concepts or tools from class relate to this project?:
+## What concepts or tools from class relate to this project?:What concepts or tools from class relate to this project?: 
+Neutral theory of Biodiversity, Equilibrium theory of island biogeography, and competition are concepts that would best explain the species diversity of treeshrew in SE Asia and Indian subcontinent.
 
 ## What additional resources (code, data, literature) would support this project?:
 
@@ -30,4 +31,7 @@ We plan to run simulations like were demonstrated in class that allow for specia
 
 [Roberts et al. - 2011 - Molecular phylogeny of treeshrews (Mammalia Scand.pdf](https://github.com/ebrownrma/final-project/files/10094434/Roberts.et.al.-.2011.-.Molecular.phylogeny.of.treeshrews.Mammalia.Scand.pdf)
 
+In addition, resources such as github, R (code), and GBIF data on Treeshrew would be useful for this project.
+
 ## How can Andy or Renata help?:
+In designing what tools best describes species diversity in Treeshrew and how to input the parameters
