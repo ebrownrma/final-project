@@ -1,21 +1,11 @@
-# final-project
-
-This is a template repository for final projects for EcoEvoTheory Fall 2022.
-
-## Instructions (do this before class Monday, Nov. 28!)
-
-For more detailed instructions see [here](https://github.com/eco-evo-thr-2022/final-project/blob/main/how_to_fork.md).
-
-1.  Fork this repository to your personal GitHub account.
-2.  Either clone it to your computer, or use the edit button to update this README with your project proposal (below).
-
 ## Project Proposal
 
-Name(s) of the folks involved in this project:
+Cornelius Nichodemus
+Eric Brown
 
-Working title:
+Working title: Treeshrew Speciation
 
-Project summary (1-2 sentences):
+Project summary (1-2 sentences): Can neutral theory / island biogeog explain the current species diversity of Scandentia (treeshrews), an order that's been around for 50mil years & occupies much of SE Asia and the Indian subcontinent, yet only boasts 21 species
 
 What is especially interesting (to you!) about this project?:
 
