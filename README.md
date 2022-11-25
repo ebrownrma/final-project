@@ -20,7 +20,7 @@ The Sundaland basin has grown and shrunk with the glaciations of the past severa
 
 ## How do you plan to tackle this project?:
 
-We plan to run simulations like were demonstrated in class that allow for speciation and extinction over deep time. We can divide a number of different scenarios between us (different rates of migration, extinction, etc.) that might explain the evolutionary trajectory of Scandentia.
+We plan to run simulations like were demonstrated in class that allow for speciation and extinction over deep time. We can divide a number of different scenarios between us (different rates of migration, extinction, etc.) that might explain the evolutionary trajectory of Scandentia. Identifying what rates of speciation, extinction, etc. result in the currently observed species diversity will serve as a jumping-off point for other scenarios (e.g. effects of glacial periods).
 
 ## What concepts or tools from class relate to this project?
 Neutral theory of Biodiversity, Equilibrium theory of island biogeography, and competition are concepts that would best explain the species diversity of treeshrew in SE Asia and Indian subcontinent.
