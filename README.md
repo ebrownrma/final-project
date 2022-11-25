@@ -26,4 +26,8 @@ We plan to run simulations like were demonstrated in class that allow for specia
 
 ## What additional resources (code, data, literature) would support this project?:
 
+[Olson et al. - 2004 - Phylogenetic Relationships Among Treeshrews (Scand.pdf](https://github.com/ebrownrma/final-project/files/10094438/Olson.et.al.-.2004.-.Phylogenetic.Relationships.Among.Treeshrews.Scand.pdf)
+
+[Roberts et al. - 2011 - Molecular phylogeny of treeshrews (Mammalia Scand.pdf](https://github.com/ebrownrma/final-project/files/10094434/Roberts.et.al.-.2011.-.Molecular.phylogeny.of.treeshrews.Mammalia.Scand.pdf)
+
 ## How can Andy or Renata help?:
