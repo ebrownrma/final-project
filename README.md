@@ -22,6 +22,10 @@ The Sundaland basin has grown and shrunk with the glaciations of the past severa
 
 We plan to run simulations like were demonstrated in class that allow for speciation and extinction over deep time. We can divide a number of different scenarios between us (different rates of migration, extinction, etc.) that might explain the evolutionary trajectory of Scandentia. Identifying what rates of speciation, extinction, etc. result in the currently observed species diversity will serve as a jumping-off point for other scenarios (e.g. effects of glacial periods).
 
+1. We investigate to know how treeshrews have evolved over the past 50 million years using neutral theory and ETIB, and if it accounts for their diversity.
+2. We attempt to understand how the rate of speciation and extinction over time led to their population size (20 species).
+3. What role did habitat size and resources play in treeshrews diversity?
+
 ## What concepts or tools from class relate to this project?
 Neutral theory of Biodiversity, Equilibrium theory of island biogeography, and competition are concepts that would best explain the species diversity of treeshrew in SE Asia and Indian subcontinent.
 
