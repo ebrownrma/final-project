@@ -3,7 +3,8 @@ Cornelius Nichodemus
 
 Eric Brown
 
-## Introduction: Scandentia
+## Eric Notes
 
 
-## Introduction: DAISIE
+## Cornelius Notes
+
